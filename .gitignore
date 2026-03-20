@@ -1,0 +1,7 @@
+echo "backend/node_modules
+backend/dist
+backend/prisma/dev.db
+backend/.env
+frontend/node_modules
+frontend/.next
+frontend/.env.local" > .gitignore
